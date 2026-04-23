@@ -1,7 +1,7 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Timofey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Aspiring+Backend+Developer;Future+Startup+Builder&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Backend+Developer+in+Progress;Future+Startup+Builder&center=true&width=500&height=45">
 </p>
 
 ---
@@ -9,14 +9,14 @@
 ## 🚀 About Me
 
 🎓 1st-year Software Engineering student (19 y.o.)  
-💻 Focused on becoming a strong developer  
+💻 Focused on becoming a strong backend developer  
 🧠 Currently learning **Java & backend development**  
-⚡ Previously worked with **Python**, still my go-to for problem solving  
+⚡ Previously worked with **Python** — still my favorite for problem solving  
 
-💡 Interested in:
-- Building real projects & startups  
-- Creating useful services (including bio-link platforms & integrations)  
-- Growing from beginner → confident developer  
+💡 What I'm into:
+- Building real projects, not just studying theory  
+- Creating useful services (bio-link platforms, integrations, etc.)  
+- Moving from beginner → confident developer → project creator  
 
 ---
 
@@ -48,7 +48,7 @@
 ## 📌 Current Focus
 
 ```text
-→ Learning Java deeply
-→ Improving backend skills
-→ Working on first real projects
-→ Exploring startup ideas
+→ Going deeper into Java
+→ Learning backend development fundamentals
+→ Building first real-world projects
+→ Exploring startup ideas and monetization
