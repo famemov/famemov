@@ -45,7 +45,7 @@ Tools
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=famemov&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=c9d1d9&sideNums=39ff14" />
+  <img src="https://streak-stats.demolab.com?user=famemov&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&currStreakNum=ffffff&sideNums=39ff14&sideLabels=c9d1d9&dates=c9d1d9" />
 </p>
 
  ---
