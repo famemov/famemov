@@ -33,27 +33,11 @@ Tools
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- LIGHT THEME -->
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=famemov&show_icons=true&hide_border=true&bg_color=ffffff&title_color=00cc66&icon_color=00cc66&text_color=222222#gh-light-mode-only" />
-
-  <!-- DARK THEME -->
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=famemov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9#gh-dark-mode-only" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=famemov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_radius=10" />
 </p>
 
 <p align="center">
-
-  <!-- LIGHT THEME -->
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=famemov&layout=compact&hide_border=true&bg_color=ffffff&title_color=00cc66&text_color=222222#gh-light-mode-only" />
-
-  <!-- DARK THEME -->
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=famemov&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9#gh-dark-mode-only" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famemov&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_radius=10" />
 </p>
  
  ---
@@ -61,13 +45,7 @@ Tools
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-  <!-- LIGHT -->
-  <img src="https://streak-stats.demolab.com?user=famemov&hide_border=true&background=ffffff&ring=00cc66&fire=00cc66&currStreakLabel=00cc66#gh-light-mode-only" />
-
-  <!-- DARK -->
-  <img src="https://streak-stats.demolab.com?user=famemov&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14#gh-dark-mode-only" />
-
+  <img src="https://streak-stats.demolab.com?user=famemov&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=c9d1d9&sideNums=39ff14" />
 </p>
 
  ---
